@@ -16,7 +16,7 @@ I am a software engineer with a passion for building real-world systems that sit
 - **Issued by:** Udemy
 - **Focus Areas:** HTML, CSS, JavaScript, Node.js, REST APIs, Databases, React.js
 - **What I took away:** End-to-end web development from frontend design to backend API integration — the foundation that shaped how I approach full-stack engineering today.
-
+<img src="https://github.com/Rajini-Ramachandran/Certifications/blob/main/Images/Udemy%20-%20Rajini%20Shankar%20Ramachandran_page-0001.jpg" alt="App Screenshot" width="1000">
 ---
 
 ### 🚀 Smart India Hackathon (SIH) 2022
@@ -24,7 +24,7 @@ I am a software engineer with a passion for building real-world systems that sit
 - **Year:** 2022
 - **What it was:** One of the largest national-level hackathons in India, where student teams compete to solve real government and industry problem statements under a time-constrained environment.
 - **What I took away:** Sharpened my ability to rapidly prototype solutions, collaborate under pressure, and deliver a working product within a strict deadline — skills that directly translate into how I approach engineering challenges today.
-<img src="https://github.com/Rajini-Ramachandran/Smart-Home-Automation/blob/main/Images/Certificate-%20Rajini%20Shankar%20Ramachandran.jpg" alt="App Screenshot" width="1000">
+<img src="https://github.com/Rajini-Ramachandran/Certifications/blob/main/Images/Certificate-%20Rajini%20Shankar%20Ramachandran.jpg" alt="App Screenshot" width="1000">
 ---
 
 ## 🛠️ Tech I Work With
